@@ -135,7 +135,3 @@ Run `./venv/bin/python modbus.py --help` for the full, up-to-date list.
 
 - Python 3.9+
 - [pymodbus](https://pypi.org/project/pymodbus/) (see `requirements.txt`)
-
-## License
-
-Add your preferred license here before distributing this tool.
